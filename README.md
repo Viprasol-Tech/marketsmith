@@ -17,6 +17,10 @@ _Built and maintained by [Viprasol Tech](https://viprasol.com)._
 
 </div>
 
+<p align="center">
+  <img src="docs/assets/demo.svg" width="820" alt="marketsmith demo">
+</p>
+
 ---
 
 `marketsmith` is a [Model Context Protocol](https://modelcontextprotocol.io/) server
